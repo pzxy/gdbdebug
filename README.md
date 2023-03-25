@@ -6,8 +6,7 @@
 # 全部教学视频在这里
 
 https://edu.51cto.com/course/27750.html
-
-
+https://www.bilibili.com/video/BV16M4y1X7zN/
 
 
 课程大纲-Linux GDB C/C++调试基础与提升
